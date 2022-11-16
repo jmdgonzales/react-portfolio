@@ -1,0 +1,26 @@
+.Header {
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+
+.Home-link {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: calc(2px + 3vmin);
+    text-decoration: none;
+  }
+
+.Home-link:visited {
+    color: black;
+  }
+
+.Header-phone-num {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: calc(2px + 2vmin);
+  }
+
+.Header-email {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: calc(2px + 2vmin);
+  }
